@@ -1,9 +1,9 @@
 {
   "update": "1",
-  "photos": "2",
-  "longids": "11",
-  "dateids": "082624082224",
-  "photonames": ["Concept2", "Concept", "", "", "", "", "", ""],
+  "photos": "3",
+  "longids": "111",
+  "dateids": "082924082624082224",
+  "photonames": ["Concept3", "Concept2", "Concept", "", "", "", "", ""],
   "albums": "1",
   "album1": ["상승 (rise)", "ep", "TestCover", "", "", "", "", ""]
 }
