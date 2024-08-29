@@ -3,13 +3,7 @@
   "photos": "2",
   "longids": "11",
   "dateids": "082624082224",
-  "photoname0": "Concept2",
-  "photoname1": "Concept",
-  "photoname2": "",
-  "photoname3": "",
-  "photoname4": "",
-  "photoname5": "",
-  "photoname6": "",
-  "photoname7": "",
-  "photoname8": ""
+  "photonames": ["Concept2", "Concept", "", "", "", "", "", ""],
+  "albums": "1"
+  "album1": ["상승 (rise)", "ep", "TestCover", "", "", "", "", ""],
 }
