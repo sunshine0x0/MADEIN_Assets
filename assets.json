@@ -1,7 +1,6 @@
 {
   "update": "1",
-  "photoInfo": [
-    {
+  "photoInfo": {
       "photos": "3",
       "longIds": "111",
       "dateIds": "082924082624082224",
@@ -15,10 +14,8 @@
         "", 
         ""
       ]
-    }
-  ],
-  "_albumInfo": [
-    {
+    },
+  "albumInfo": {
       "albums": "1",
       "albumInfo": [
         {
@@ -54,5 +51,4 @@
         }
       ]
     }
-  ]
 }
