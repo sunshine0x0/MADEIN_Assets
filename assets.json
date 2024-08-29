@@ -12,25 +12,25 @@
       "cover": "TestCover",
       "tracks": [
         {
-          "number": "1",
+          "id": "1",
           "name": "uno",
           "duration": "03:00",
           "starring": "madein"
         },
         {
-          "number": "2",
+          "id": "2",
           "name": "dadarida",
           "duration": "03:00",
           "starring": "madein"
         },
         {
-          "number": "3",
+          "id": "3",
           "name": "dopamine",
           "duration": "03:00",
           "starring": "madein"
         },
         {
-          "number": "4",
+          "id": "4",
           "name": "timeline",
           "duration": "03:00",
           "starring": "yeseo and mashiro"
