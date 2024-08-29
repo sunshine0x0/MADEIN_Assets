@@ -6,25 +6,35 @@
   "photonames": ["Concept3", "Concept2", "Concept", "", "", "", "", ""],
   "albums": "1",
   "albuminfo": [
-    "상승 (rise)", 
-    "ep", 
-    "TestCover", 
-    "4", 
-    "1.", 
-    "2.", 
-    "3.", 
-    "4.", 
-    "uno", 
-    "dadarida", 
-    "dopamine", 
-    "timeline", 
-    "03:00", 
-    "03:00", 
-    "03:00", 
-    "03:00", 
-    "madein", 
-    "madein", 
-    "madein", 
-    "yeseo and mashiro"
-  ]
+    {
+      "title": "상승 (rise)",
+      "type": "ep",
+      "cover": "TestCover",
+      "tracks": [
+        {
+          "number": "1.",
+          "name": "uno",
+          "duration": "03:00",
+          "starring": "madein"
+        },
+        {
+          "number": "2.",
+          "name": "dadarida",
+          "duration": "03:00",
+          "starring": "madein"
+        },
+        {
+          "number": "3.",
+          "name": "dopamine",
+          "duration": "03:00",
+          "starring": "madein"
+        },
+        {
+          "number": "4.",
+          "name": "timeline",
+          "duration": "03:00",
+          "starring": "yeseo and mashiro"
+        }
+      ]
+    }
 }
