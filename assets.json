@@ -1,11 +1,11 @@
 {
   "update": "1",
   "photos": "3",
-  "longids": "111",
-  "dateids": "082924082624082224",
-  "photonames": ["Concept3", "Concept2", "Concept", "", "", "", "", ""],
+  "longIds": "111",
+  "dateIds": "082924082624082224",
+  "photoNames": ["Concept3", "Concept2", "Concept", "", "", "", "", ""],
   "albums": "1",
-  "albuminfo": [
+  "albumInfo": [
     {
       "title": "상승 (rise)",
       "type": "ep",
