@@ -48,6 +48,19 @@
               "starring": "yeseo and mashiro"
             }
           ]
+        },
+        {
+          "title": "test",
+          "type": "single",
+          "cover": "TestCover",
+          "tracks": [
+            {
+              "id": "1",
+              "name": "uno",
+              "duration": "03:00",
+              "starring": "madein"
+            }
+          ]
         }
       ]
     }
