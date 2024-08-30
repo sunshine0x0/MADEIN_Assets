@@ -1,5 +1,5 @@
 {
-  "update": "1",
+  "update": "0",
   "photoInfo": {
       "photos": "3",
       "longIds": "111",
@@ -16,7 +16,7 @@
       ]
     },
   "albumInfo": {
-      "albums": "1",
+      "albums": "2",
       "albumInfo": [
         {
           "title": "상승 (rise)",
