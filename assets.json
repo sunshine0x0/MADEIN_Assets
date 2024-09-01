@@ -22,6 +22,10 @@
           "title": "상승 (rise)",
           "type": "ep",
           "cover": "TestCover",
+          "teaser": "true",
+          "thumbnail": "UnoTeaser",
+          "teasertitle": "MADEIN - \"UNO\" TEASER",
+          "youtubecode": "jyfIVg6Vza4",
           "tracks": [
             {
               "id": "1",
@@ -53,6 +57,10 @@
           "title": "test",
           "type": "single",
           "cover": "TestCover",
+          "teaser": "false",
+          "thumbnail": "UnoTeaser",
+          "teasertitle": "MADEIN - \"UNO\" TEASER",
+          "youtubecode": "jyfIVg6Vza4",
           "tracks": [
             {
               "id": "1",
