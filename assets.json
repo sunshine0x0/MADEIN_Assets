@@ -41,7 +41,7 @@
               "name": "dadarida",
               "trackfile": "uno", 
               "duration": "03:00",
-              "starring": "madein"
+              "starring": "madein",
               "mv": "false",
               "mvfile": ""
             },
@@ -50,7 +50,7 @@
               "name": "dopamine",
               "trackfile": "uno", 
               "duration": "03:00",
-              "starring": "madein"
+              "starring": "madein",
               "mv": "false",
               "mvfile": ""
             },
@@ -59,7 +59,7 @@
               "name": "timeline",
               "trackfile": "uno", 
               "duration": "03:00",
-              "starring": "yeseo and mashiro"
+              "starring": "yeseo and mashiro",
               "mv": "false",
               "mvfile": ""
             }
@@ -79,7 +79,7 @@
               "name": "uno",
               "trackfile": "TestSong", 
               "duration": "03:00",
-              "starring": "madein"
+              "starring": "madein",
               "mv": "false",
               "mvfile": ""
             }
