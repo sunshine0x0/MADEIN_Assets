@@ -64,26 +64,6 @@
               "mvfile": ""
             }
           ]
-        },
-        {
-          "title": "test",
-          "type": "single",
-          "cover": "TestCover",
-          "teaser": "false",
-          "thumbnail": "UnoTeaser",
-          "teasertitle": "MADEIN - \"UNO\" TEASER",
-          "youtubecode": "jyfIVg6Vza4",
-          "tracks": [
-            {
-              "id": "0",
-              "name": "uno",
-              "trackfile": "Instrumental-2", 
-              "duration": "03:00",
-              "starring": "madein",
-              "mv": "false",
-              "mvfile": ""
-            }
-          ]
         }
       ]
     }
