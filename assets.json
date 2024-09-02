@@ -21,7 +21,7 @@
         {
           "title": "상승 (rise)",
           "type": "ep",
-          "cover": "TestCover",
+          "cover": "Unknown",
           "teaser": "true",
           "thumbnail": "UnoTeaser",
           "videofile": "UnoTeaser",
@@ -30,11 +30,11 @@
             {
               "id": "0",
               "name": "uno",
-              "trackfile": "TestSong", 
+              "trackfile": "uno", 
               "duration": "03:00",
               "starring": "madein",
-              "mv": "true",
-              "mvfile": "TestVideo"
+              "mv": "false",
+              "mvfile": ""
             },
             {
               "id": "1",
