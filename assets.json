@@ -19,10 +19,10 @@
       "albums": "2",
       "albumInfo": [
         {
-          "title": "상승 (rise)",
+          "title": "rise",
           "type": "ep",
-          "cover": "Unknown",
-          "teaser": "true",
+          "cover": "RISE",
+          "teaser": "false",
           "thumbnail": "UnoTeaser",
           "videofile": "UnoTeaser",
           "teasertitle": "MADEIN - \"UNO\" TEASER",
@@ -30,7 +30,7 @@
             {
               "id": "0",
               "name": "uno",
-              "trackfile": "uno", 
+              "trackfile": "UNO", 
               "duration": "03:00",
               "starring": "madein",
               "mv": "false",
@@ -39,7 +39,7 @@
             {
               "id": "1",
               "name": "dadarida",
-              "trackfile": "dadarida", 
+              "trackfile": "DADARIDA", 
               "duration": "03:00",
               "starring": "madein",
               "mv": "false",
@@ -48,7 +48,7 @@
             {
               "id": "2",
               "name": "dopamine",
-              "trackfile": "dopamine", 
+              "trackfile": "DOPAMINE", 
               "duration": "03:00",
               "starring": "madein",
               "mv": "false",
@@ -57,7 +57,7 @@
             {
               "id": "3",
               "name": "timeline",
-              "trackfile": "timeline", 
+              "trackfile": "TIMELINE", 
               "duration": "03:00",
               "starring": "yeseo and mashiro",
               "mv": "false",
